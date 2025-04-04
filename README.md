@@ -1,6 +1,6 @@
 # FlipMart-Sales-Dashboard
 
-<img src="Images/Flipmart.png" width="2000" height="500"/>&nbsp;
+<img src="Flipmart img.jpg" width="2000" height="500"/>&nbsp;
 
 ## Tool used :
 
